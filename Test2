@@ -1,0 +1,42 @@
+import json
+from unittest import TestCase
+from models import db
+from models.account import Account
+
+ACCOUNT_DATA = {}
+
+class TestAccountModel(TestCase):
+    """Test Account Model"""
+
+    @classmethod
+    def setUpClass(cls):
+        """Connect and load data needed by tests"""
+        # Add implementation to connect and load necessary data
+
+    @classmethod
+    def tearDownClass(cls):
+        """Disconnect from the database"""
+        # Add implementation to disconnect from the database
+
+    def setUp(self):
+        """Truncate the tables"""
+        # Add implementation to truncate the tables
+
+    def tearDown(self):
+        """Remove the session"""
+        # Add implementation to remove the session
+
+    def test_example(self):
+        """Example test case"""
+        # Add your test case implementation here
+        # For example:
+        # account = Account(**ACCOUNT_DATA)
+        # db.session.add(account)
+        # db.session.commit()
+        # self.assertEqual(account.some_property, expected_value)
+
+# Add more test methods as needed
+
+    ######################################################################
+    #  T E S T   C A S E S
+    ######################################################################
