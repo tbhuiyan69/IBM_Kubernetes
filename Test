@@ -1,0 +1,13 @@
+Task 1: GitHub URL of the tests/factories.py showing the updated code for fake products (1 pt)
+
+Task 2: GitHub URL of tests/test_models.py showing the code snippets for Read / Update / Delete / List All / Find by Name / Find by Category / Find by Availability functions (7 pts)
+
+Task 3: GitHub URL of tests/test_routes.py showing the code snippets for Read / Update / Delete / List All / List by Name / List by Category / List by Availability functions (7 pts)
+
+Task 4: GitHub URL of service/routes.py showing the code snippets for Read / Update / Delete / List All / List by Name / List by Category / List by Availability functions (7 pts)
+
+Task 5: GitHub URL of features/steps/load_steps.py showing the code snippet for loading the BDD data (2 pts)
+
+Task 6: GitHub URL of features/products.feature showing the code snippets for the BDD Scenarios including Read / Update / Delete / List all / Search by Name / Search by Category / Search by Availability ( 7 pts)
+
+Task 7: GitHub URL of features/steps/web_steps.py showing the code snippets of the step definitions (4 pts)
